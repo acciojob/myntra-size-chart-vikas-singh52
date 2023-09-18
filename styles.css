@@ -1,2 +1,24 @@
 
 /* Your CSS Code here. */
+table,th,tr,td{
+	border:1px solid black;
+}
+#t1{
+	width:500px;
+	border-collapse:collapse;
+}
+thead{
+	background-color:darkred;
+	color:white;
+	text-align:left;
+}
+td{
+	text-align:right;
+}
+.left{
+	text-align:left;
+}
+#r1{
+	background-color:lightpink;
+	color:white;
+}
